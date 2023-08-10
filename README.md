@@ -7,12 +7,3 @@ An android app that makes color-palette from choosen image.</br>
 ## **Screenshot**
 <img src="src/ss01.png" width=200 height=400/>  <img src="src/ss02.png" width=200 height=400/> <img src="src/ss03.png" width=200 height=400/> <img src="src/ss04.png" width=200 height=400/>
 
-## **Video**
-![](src/video.gif)
-
-## **Icon**
-![icon](app/src/main/res/mipmap-xxxhdpi/icon.png)
-
-# **Apk download**
-[app-debug.apk](src/app-debug.apk?raw=true)
-
