@@ -1,4 +1,4 @@
-## **ColorPalettefromImage**
+## **ColorImage**
 An android app that makes color-palette from choosen image.</br>
  * Copy particuar color code</br>
  * Supports RGB format</br>
